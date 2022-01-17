@@ -1,0 +1,23 @@
+*{
+  margin: 0px;
+}
+html{
+    background-color: black;
+    width: 1000px;
+}
+h1{
+    color: green;
+}
+section{
+    color: white;
+}
+label{
+    color: white;
+}
+.box{
+   width: 900px;
+   height: 1000px;
+   position: relative;
+   left: 600px;
+   bottom: 600px;
+}
